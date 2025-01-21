@@ -1,9 +1,10 @@
 # Создание загрузочной флэшки
-На примере windows
-
+На примере windows 11
+https://www.microsoft.com/en-us/software-download
 
 ## Скачиваем программу которая поможет создать загрузочную флэшку
-https://www.microsoft.com/en-us/software-download
+Media Creation Tool
+[https://go.microsoft.com/fwlink/?linkid=2156295](https://www.microsoft.com/en-us/software-download/windows11)
 
 
 ## Подключаем флэшку
