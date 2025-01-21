@@ -1,27 +1,30 @@
-# Создание загрузочной флэшки
-На примере windows 11
+# Creating a bootable flash drive
+Using windows 11 as an example
 https://www.microsoft.com/en-us/software-download
 
-## Скачиваем программу которая поможет создать загрузочную флэшку
+## Download a program that will help you create a bootable flash drive.
 Media Creation Tool
 [https://go.microsoft.com/fwlink/?linkid=2156295](https://www.microsoft.com/en-us/software-download/windows11)
 
 
-## Подключаем флэшку
+## Plug in the flash drive
 
 
-## Запускаем программу и в программе выбираем флэшку
+## Run the program and select the flash drive in the program.
 
 
-## Генерируем файл
+## Generate the file
 https://schneegans.de/windows/unattend-generator/
 
 
-## Добавляем сгенерированый файл в корень флэшки
+## Add the generated file to the root of the flash drive.
 
 
-## Перезагружаемся
-Входим в биос или в boot mode
-Загружаемся с флэшки
+## Reboot
+Enter bios or boot mode
+Boot from the flash drive
 
-## Приступаем к установке ОС
+## Start installing the OS
+
+
+Translated with DeepL.com (free version)
