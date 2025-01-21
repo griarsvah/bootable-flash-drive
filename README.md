@@ -3,9 +3,10 @@ Using windows 11 as an example
 https://www.microsoft.com/en-us/software-download
 
 ## Download a program that will help you create a bootable flash drive.
-Media Creation Tool
-[https://go.microsoft.com/fwlink/?linkid=2156295](https://www.microsoft.com/en-us/software-download/windows11)
-
+-Media Creation Tool
+[Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11)
+-[Rufus](https://rufus.ie/)
+-[UltraISO](https://www.ultraiso.com/)
 
 ## Plug in the flash drive
 
@@ -25,6 +26,3 @@ Enter bios or boot mode
 Boot from the flash drive
 
 ## Start installing the OS
-
-
-Translated with DeepL.com (free version)
